@@ -61,12 +61,12 @@ const [clickstate,setClickstate] = useState(false)
                     For the mid-sem project, I developed a managing system using Python Django and PostgreSQL , wrote conditional query statements and effective CRUD functionality to efficiently store a person's important data, room type, check-in, and check-out date, room availability, services included, etc.
                     </p>
                 </h1>
-                <h1>3 ) Sort and Search Visualizer (2021) - 
+                <h1>3 ) Sort and Search Visualizer (2021) (<a style={{color:'blue'}} href='https://cheerful-profiterole-e9a975.netlify.app/'>Site</a>)- 
                     <p>
                     While understanding algorithms I thought it would be easier and more effective if I could visualize them hence I used React JS to implement important algorithms like Merge, quick and bubble sort, and also a few searching algorithms.
                     </p>
                 </h1>
-                <h1>4 ) Android TV Web Simulator (present) - 
+                <h1>4 ) Android TV Web Simulator (present) (<a style={{color:'blue'}} href='https://androtvwebsimresprojecthk.netlify.app/'>Site</a>)- 
                     <p>
                     To bring the real Android action I worked with a bunch of APIs like google search, youtube, movies, etc. Also developed a coordinate system for navigating around using a keyboard.
                     </p>
