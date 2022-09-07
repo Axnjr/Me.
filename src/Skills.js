@@ -71,6 +71,14 @@ const [clickstate,setClickstate] = useState(false)
                     To bring the real Android action I worked with a bunch of APIs like google search, youtube, movies, etc. Also developed a coordinate system for navigating around using a keyboard.
                     </p>
                 </h1>
+                 <h1 style={{fontSize:'5rem',marginTop:'-2rem'}}>Currently Working On </h1>
+                    <h1>1 ) AI T-rex Offline Browser Game (Work in Progress)<br/><br/>  
+                    2 ) Windows OS 11 3d Web Sim (comming soon)<br/><br/>
+                    3 ) AI Video Editor (comming not anytime soon Lol !) - 
+                    <p>
+                       I think this project can change the world of content creation .
+                    </p>
+                </h1>
             </div>
         </div>
     </>
